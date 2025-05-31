@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Prabhakar Sivanesan
-    tagline: Deep Learning / Computer Vision Engineer
+    tagline: AI & Data Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sivanesanprabhakar@gmail.com
-    phone: +91 887 004 5692
+    phone: +1 647-824-8054
     website: #do not add http://
     linkedin: prabhakar-sivanesan
     github: prabhakar-sivanesan
@@ -47,8 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Focused professional having excellent technical and communication skill, and offering 7+ years of
-      experience in the feild of Research, Innovation and Development. Proficient in Deep learning and Computer Vision Frameworks.
+      Focused professional having excellent technical and communication skill, and offering 9+ years of
+      experience in the feild of Research, Innovation and Development. Proficient in Data Engineering, Deep learning and Computer Vision Frameworks.
       Write code in multiple languages such as C++, Java, Python and Android. Yet still hungry, learning GoLang.
       Specialize in thinking outside the box to find unique solution to different problems.
 education:
